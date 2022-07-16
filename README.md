@@ -17,11 +17,14 @@ Matlab codes to plot Figure 3 in the paper
 
 DOPv2021 dataset
 
+(https://www.bco-dmo.org/dataset/855139)
+
 
 # TDPreproducibility.csv
 
 TDP reproducibility data
 
+(https://www.bco-dmo.org/dataset/855139, in the supplemental files) 
 # gmregress.m
 
 Type II regression model
