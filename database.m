@@ -1,6 +1,6 @@
 
 % load DOPv2021 database
-data = readtable('dopv2021.csv');
+data = readtable('dopv2021.csv','Delimiter',',');
 % remove BML DOP concentration
 data = data(data.DOP_flag == 2,:);
 
